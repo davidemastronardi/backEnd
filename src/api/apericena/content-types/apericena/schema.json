@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "apericene",
+  "info": {
+    "singularName": "apericena",
+    "pluralName": "apericene",
+    "displayName": "Apericena",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subtitle": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
